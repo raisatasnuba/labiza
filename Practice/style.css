@@ -1,0 +1,26 @@
+.center{
+
+			background-color:powderblue;
+		    margin: auto;
+			color: red;
+			font-size: 10px;
+			width: 350px;
+			height: 100px;
+			text-align: center;
+			border: 2px solid darkblue;
+
+
+		}
+		.table{
+			border-collapse: collapse;
+			width: 30%;
+			height: 30%;
+			border: 1px solid blue;
+			text-align: center;
+		}
+		
+
+
+
+			
+
